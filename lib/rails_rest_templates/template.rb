@@ -1,8 +1,8 @@
 app_name = "application"
 app_title = app_name.classify
 
-gem "rails_rest_templates", git: "http://github.com/ricardobaumann/rails_rest_templates"
-gem "rspec_scaffold_gen", git: "https://github.com/ricardobaumann/rspec_scaffold_gen"
+gem "rails_rest_templates", git: "http://github.com/mesalva/rails_rest_templates"
+gem "rspec_scaffold_gen", git: "https://github.com/mesalva/rspec_scaffold_gen"
 gem "therubyracer"
 gem 'rspec-rails'
  
